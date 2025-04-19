@@ -57,7 +57,7 @@ void main() {
   }
 
   // Q8: Marksheet
-  String name = "Jawwad";
+  String name = "ahmed";
   int sub1 = 85, sub2 = 78, sub3 = 92;
   int totalMarks = sub1 + sub2 + sub3;
   double percentage = (totalMarks / 300) * 100;
